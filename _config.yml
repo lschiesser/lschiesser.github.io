@@ -102,9 +102,9 @@ analytics:
 author:
   name             : "Lukas Schießer"
   avatar           : "images/lschiesser.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Researcher at DFKI"
+  bio              : "AI Researcher at DFKI"
   location         : "Osnabrück, Germany"
-  employer         : "Deutsches Forschungszentrum für Künstliche Intelligenz"
+  employer         : "DFKI"
   email            : "lschiesser@gmail.com"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
