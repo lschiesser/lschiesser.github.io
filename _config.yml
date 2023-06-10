@@ -281,7 +281,7 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  talks:
+  projects:
     output: true
     permalink: /:collection/:path/
   code:
@@ -312,10 +312,10 @@ defaults:
     values:
       layout: single-publication
       author_profile: true
-  # _talks
+  # _projects
   - scope:
       path: ""
-      type: talks
+      type: projects
     values:
       layout: single-talk
       author_profile: true

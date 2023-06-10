@@ -6,6 +6,6 @@ author_profile: true
 classes: wide
 ---
 
-{% for post in site.talks reversed %}
+{% for post in site.projects reversed %}
   {% include archive-single.html %}
 {% endfor %}
