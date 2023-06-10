@@ -15,14 +15,14 @@
 minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US"
-title                    : "Matthew Kirby"
+locale                   : "de"
+title                    : "Lukas Schießer"
 title_separator          : "-"
-name                     : "Matthew Kirby"
-description              : "Matthew Kirby's academic homepage"
-url                      : "https://matthewkirby.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : "Lukas Schießer"
+description              : "Lukas Schießer"
+url                      : "https://lschiesser.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : matthewkirby/matthewkirby.github.io # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : lschiesser/lschiesser.github.io # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -100,28 +100,28 @@ analytics:
 
 # Site Author
 author:
-  name             : "Matthew Kirby"
-  avatar           : "images/mattkirby.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "PhD student at the University of Arizona"
-  location         : "Tucson, AZ"
-  employer         : "University of Arizona"
-  email            : "matthew.ryan.kirby@gmail.com"
+  name             : "Lukas Schießer"
+  avatar           : "images/lschiesser.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "Researcher at DFKI"
+  location         : "Osnabrück, Germany"
+  employer         : "Deutsches Forschungszentrum für Künstliche Intelligenz"
+  email            : "lschiesser@gmail.com"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
-  bitbucket        : "mattkirby"
+  bitbucket        : 
   codepen          :
   dribbble         :
   flickr           :
   facebook         :
   foursquare       :
-  github           : "matthewkirby"
+  github           : "lschiesser"
   gitlab           :
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
   linkedin         : # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
-  googlescholar    : "https://scholar.google.com/citations?user=UtjjWXgAAAAJ"
+  googlescholar    : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
