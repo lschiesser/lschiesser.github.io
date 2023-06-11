@@ -3,8 +3,8 @@ title: "Blood Vessel Segmentation Using U-Net for Glaucoma Diagnosis with Limite
 collection: publications
 permalink: /publications/schiesser-et-al-2023
 excerpt: "As part of my master thesis, I developed a U-Net based segmentation model for blood vessel segmentation"
-date: 2019-5-1
-venue: 'ApJS'
+date: 2023-5-22
+venue: 'Volume 302: Caring is Sharing – Exploiting the Value in Data for Health and Innovation'
 classes: wide
 publ: "true"
 ---
