@@ -25,17 +25,6 @@ University of Osnabrück, Germany<br>
 B.Sc. in Cognitive Science<br>
 University of Osnabrück, Germany<br>
 
-## Research experience
-
-**Improving DES Cluster Cosmology via SPT Cluster Observations (2019-Present)**<br>
-_Advisor: Eduardo Rozo_<br>
-Using the overlapping area of the Dark Energy Survey and South Pole Telescope, I built a complete sample of DES clusters with SPT detections. I then used the sample to constrain the variance in the richness-mass relation and tighten cosmological constraints.
-
-**CLMM Development (2018-Present)**<br>
-_LSST DESC_<br>
-Co-Leading development of a software package to measure halo mass and bias using weak lensing data from simulations and observations.<br>
-_Relevant Publications: Avestruz et al. In Prep_
-
 ## Service and Outreach
 
 **2016 - 2017**<br>
