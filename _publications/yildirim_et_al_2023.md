@@ -17,4 +17,4 @@ Age-related macular degeneration (AMD) is the leading cause of blindness in the 
 
 I mainly contributed to this paper through discussions and topic related discussion.
 
-[Link](https://ebooks.iospress.nl/doi/10.3233/SHTI230209)
+[Link](https://ebooks.iospress.nl/doi/10.3233/SHTI230315)
