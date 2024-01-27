@@ -15,6 +15,12 @@ a.uline {text-decoration:underline;}
 
 <a href="../files/cv.pdf" class="uline">Click here for a full pdf copy of my CV</a>
 
+## Work Experience
+
+**05/2023-current**<br>
+Researcher<br>
+Deutsches Forschungszentrum für Künstliche Intelligenz GmbH (DFKI), Osnabrück, Germany<br>
+
 ## Education
 
 **04/2021-04/2023**<br>
@@ -27,6 +33,9 @@ University of Osnabrück, Germany<br>
 
 ## Service and Outreach
 
+**since 2022**<br>
+Unser Dialog<br>
+
 **2016 - 2017**<br>
 Voluntary Federal Service at the Intesive Care Unit at Leopoldina Hospital, Schweinfurt Germany<br>
 
@@ -38,4 +47,4 @@ Voluntary Federal Service at the Intesive Care Unit at Leopoldina Hospital, Schw
 
 ## Conferences and Workshops
 
-1. Medical Informatics Europe, Gothenburg, Swedenn, May 2023
+1. Medical Informatics Europe, Gothenburg, Sweden, May 2023
