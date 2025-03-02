@@ -13,13 +13,17 @@ a.uline {text-decoration:underline;}
 
 {% include base_path %}
 
-<a href="../files/cv.pdf" class="uline">Click here for a full pdf copy of my CV</a>
+{% <a href="../files/cv.pdf" class="uline">Click here for a full pdf copy of my CV</a> %}
 
 ## Work Experience
 
 **05/2023-current**<br>
 Researcher<br>
 Deutsches Forschungszentrum für Künstliche Intelligenz GmbH (DFKI), Osnabrück, Germany<br>
+
+**10/2022-03/2023**<br>
+Student Assistant<br>
+University Hospital Münster, Münster, Germany<br>
 
 ## Education
 
